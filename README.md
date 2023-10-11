@@ -1,2 +1,4 @@
 # cyberdeck
-Cyberdeck Project for 2023-24
+
+## General
+**Base** Raspberry Pi Quick Kit from Jay Doscher (doscher.com)[https://www.doscher.com]
